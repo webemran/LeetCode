@@ -14,3 +14,5 @@ function twoSum(nums, target) {
 };
 
 console.log(twoSum(nums,target));
+
+//this code correct for 53 testcase at leetCode
